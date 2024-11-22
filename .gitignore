@@ -2,4 +2,5 @@
 *.pcap
 /traces/*
 /output/*
+/Test_Files/*
 *.temp
